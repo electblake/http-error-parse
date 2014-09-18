@@ -1,0 +1,24 @@
+{
+  "name": "http-error-parse",
+  "version": "1.0.0",
+  "description": "Given an error stack object, grab a message and/or the associated HTTP response code (404, 400, 401 etc)",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/electblake/http-error-parse"
+  },
+  "keywords": [
+    "error",
+    "http",
+    "codes"
+  ],
+  "author": "electblake <electblake@gmail.com>",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/electblake/http-error-parse/issues"
+  },
+  "homepage": "https://github.com/electblake/http-error-parse"
+}
