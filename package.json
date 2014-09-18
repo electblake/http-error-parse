@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/electblake/http-error-parse/issues"
   },
-  "homepage": "https://github.com/electblake/http-error-parse"
+  "homepage": "https://github.com/electblake/http-error-parse",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
 }
