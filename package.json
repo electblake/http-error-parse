@@ -1,6 +1,6 @@
 {
   "name": "http-error-parse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Given an error stack object, grab a message and/or the associated HTTP response code (404, 400, 401 etc)",
   "main": "index.js",
   "scripts": {
